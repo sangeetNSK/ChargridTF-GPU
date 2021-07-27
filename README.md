@@ -1,4 +1,5 @@
-# Chargrid model : Extraction of meaningful instances from document images
+# [Working Progress]
+Chargrid model : Extraction of meaningful instances from document images
 _Author: Antoine DELPLACE_  
 _Last update: 26/03/2020_
 
